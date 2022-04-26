@@ -1,0 +1,9 @@
+{
+    "migrationMode": {
+        "changeType": "deletion",
+        "openPR": true,
+        "includeRepos": [
+            "capitalone/rubicon-ml"
+        ]
+    }
+}
