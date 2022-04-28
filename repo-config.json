@@ -1,7 +1,7 @@
 {
   "scanSettings": {
     "configMode": "AUTO",
-    "configExternalURL": "",
+    "configExternalURL": "https://capitalone.github.io/whitesource-configuration/whitesource.config",
     "baseBranches": []
   },
   "checkRunSettings": {
