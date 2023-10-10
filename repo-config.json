@@ -1,0 +1,23 @@
+{
+  "scanSettings": {
+    "configMode": "EXTERNAL",
+    "configExternalURL": "https://raw.githubusercontent.com/capitalone/whitesource-config/main/whitesource.config",
+    "enableLicenseViolations": true
+  },
+  "checkRunSettings": {
+    "vulnerableCheckRunConclusionLevel": "failure",
+    "displayMode": "diff",
+    "useMendCheckNames": true
+  },
+  "issueSettings": {
+    "minSeverityLevel": "LOW",
+    "issueType": "DEPENDENCY"
+  },
+  "remediateSettings": {
+    "enableRenovate": false,
+    "workflowRules": {
+      "enabled": true
+    }
+  },
+  "overrideConfigAllowList": []
+}
