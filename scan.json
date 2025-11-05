@@ -1,0 +1,9 @@
+{
+    "repositories": [
+        {
+            "fullName": "capitalone/datacompy",
+            "branchName": "capitalone-contributions:dc-trusted-pub",
+            "uploadScannerLogs": true
+        }
+    ]
+}
